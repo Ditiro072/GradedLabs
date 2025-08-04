@@ -1,0 +1,16 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.card-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
